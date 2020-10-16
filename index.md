@@ -31,7 +31,7 @@ Gantt diagram:
 
 - Waterfall Gantt diagram
 
-![](RackMultipart20201016-4-13off8e_html_28639ceeff2521e6.png)
+![]()
 
 - Agile Gantt diagram
 

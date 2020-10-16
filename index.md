@@ -31,8 +31,8 @@ Gantt diagram:
 
 - Waterfall Gantt diagram
 
-![](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt1.png)
+![image](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt1.png)
 
 - Agile Gantt diagram
 
-![](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt2.png)
+![image](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt2.png)

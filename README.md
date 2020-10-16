@@ -9,4 +9,4 @@
 
 ## **Documentation**
 
-[Project documentation]()
+[Project documentation](https://mogu615.github.io/DSCI560-HW3/)

@@ -35,4 +35,4 @@ Gantt diagram:
 
 - Agile Gantt diagram
 
-![image](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt2.png)
+![image](https://github.com/Mogu615/DSCI560-HW3/blob/gh-pages/Gantt%20Charts/Gantt2.png)
